@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Deyizark1\\.nuget\\packages\\": {}
+    "C:\\Users\\Wanguy Calvert\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deyizark1\\Desktop\\CSharp Test\\MiniProjetCSHARP--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+      "projectUniqueName": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
       "projectName": "MiniProjetCSHARP--Asterix",
-      "projectPath": "C:\\Users\\Deyizark1\\Desktop\\CSharp Test\\MiniProjetCSHARP--Asterix\\MiniProjetCSHARP--Asterix.csproj",
-      "packagesPath": "C:\\Users\\Deyizark1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deyizark1\\Desktop\\CSharp Test\\MiniProjetCSHARP--Asterix\\obj\\",
+      "projectPath": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+      "packagesPath": "C:\\Users\\Wanguy Calvert\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Deyizark1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Wanguy Calvert\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
