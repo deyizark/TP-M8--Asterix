@@ -1,6 +1,10 @@
-public class Client
+namespace ReservationConsoleApp.Models
 {
-    public int Id { get; set; }
-    public string Name { get; set; }
-    public string Email { get; set; }
+    public class Client : Person
+    {
+        public Client(string fullName, string email)
+            : base(fullName, email)
+        {
+        }
+    }
 }
