@@ -17,7 +17,7 @@ namespace ReservationConsoleApp.Models
 
         public override string ToString()
         {
-            return $"[{Id}] {Type} - {Name} (Resp: {Manager.FullName}, {Manager.Email})";
+            return $"[{Id}] {Type} - {Name} (Resp: {Manager.FullName} -- {Manager.Email})";
         }
     }
 }
