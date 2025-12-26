@@ -1,7 +1,23 @@
-public abstract class Ressource : IPayable
+namespace ReservationConsoleApp.Models
 {
-    public string Nom { get; set; }
-    public bool EstDisponible { get; set; } = true;
+    public class Resource
+    {
+        public int Id { get; set; }
+        public ResourceType Type { get; set; }
+        public string Name { get; set; }
+        public ResourceManager Manager { get; set; }
 
-    public abstract double CalculerPrix();
+        public Resource(int id, ResourceType type, string name, ResourceManager manager)
+        {
+            Id = id;
+            Type = type;
+            Name = name;
+            Manager = manager;
+        }
+
+        public override string ToString()
+        {
+            return $"[{Id}] {Type} - {Name} (Resp: {Manager.FullName} -- {Manager.Email})";
+        }
+    }
 }

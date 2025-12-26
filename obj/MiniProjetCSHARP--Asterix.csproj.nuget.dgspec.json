@@ -1,25 +1,50 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deyizark1\\Desktop\\CSharp Test\\MiniProjetCSHARP--Asterix\\MiniProjetCSHARP--Asterix.csproj": {}
+<<<<<<< HEAD
+    "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deyizark1\\Desktop\\CSharp Test\\MiniProjetCSHARP--Asterix\\MiniProjetCSHARP--Asterix.csproj": {
+    "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deyizark1\\Desktop\\CSharp Test\\MiniProjetCSHARP--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+        "projectUniqueName": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
         "projectName": "MiniProjetCSHARP--Asterix",
-        "projectPath": "C:\\Users\\Deyizark1\\Desktop\\CSharp Test\\MiniProjetCSHARP--Asterix\\MiniProjetCSHARP--Asterix.csproj",
-        "packagesPath": "C:\\Users\\Deyizark1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deyizark1\\Desktop\\CSharp Test\\MiniProjetCSHARP--Asterix\\obj\\",
+        "projectPath": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+        "packagesPath": "C:\\Users\\Wanguy Calvert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\obj\\",
+=======
+    "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+        "projectName": "MiniProjetCSHARP--Asterix",
+        "projectPath": "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+        "packagesPath": "C:\\Users\\Augustin\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\obj\\",
+>>>>>>> 4d34fc663f5751fb245b1edbd0cbda223a622c79
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Deyizark1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+<<<<<<< HEAD
+          "C:\\Users\\Wanguy Calvert\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+          "C:\\Users\\Augustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> 4d34fc663f5751fb245b1edbd0cbda223a622c79
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

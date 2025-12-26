@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "iW5CMoREvws=",
+<<<<<<< HEAD
+  "dgSpecHash": "XbKakVAgyCQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deyizark1\\Desktop\\CSharp Test\\MiniProjetCSHARP--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+  "projectFilePath": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+=======
+  "dgSpecHash": "ee4R8eS6xK0=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+>>>>>>> 4d34fc663f5751fb245b1edbd0cbda223a622c79
   "expectedPackageFiles": [],
   "logs": []
 }
