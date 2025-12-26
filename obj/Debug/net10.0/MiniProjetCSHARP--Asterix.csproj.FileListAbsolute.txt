@@ -1,0 +1,15 @@
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\bin\Debug\net10.0\MiniProjetCSHARP--Asterix.exe
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\bin\Debug\net10.0\MiniProjetCSHARP--Asterix.deps.json
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\bin\Debug\net10.0\MiniProjetCSHARP--Asterix.runtimeconfig.json
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\bin\Debug\net10.0\MiniProjetCSHARP--Asterix.dll
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\bin\Debug\net10.0\MiniProjetCSHARP--Asterix.pdb
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\obj\Debug\net10.0\MiniProjetCSHARP--Asterix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\obj\Debug\net10.0\MiniProjetCSHARP--Asterix.AssemblyInfoInputs.cache
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\obj\Debug\net10.0\MiniProjetCSHARP--Asterix.AssemblyInfo.cs
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\obj\Debug\net10.0\MiniProjetCSHARP--Asterix.csproj.CoreCompileInputs.cache
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\obj\Debug\net10.0\MiniProjetCSHARP--Asterix.sourcelink.json
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\obj\Debug\net10.0\MiniProjetCSHARP--Asterix.dll
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\obj\Debug\net10.0\refint\MiniProjetCSHARP--Asterix.dll
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\obj\Debug\net10.0\MiniProjetCSHARP--Asterix.pdb
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\obj\Debug\net10.0\MiniProjetCSHARP--Asterix.genruntimeconfig.cache
+C:\Users\Augustin\Documents\FDS_UEH_FRST\C-Sharp\FinalProject\TP-M8--Asterix\obj\Debug\net10.0\ref\MiniProjetCSHARP--Asterix.dll
