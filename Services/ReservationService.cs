@@ -62,7 +62,7 @@ public class ReservationService
     }
 
 
-    public Reservation? CreateReservation(int resourceId, string clientName, string clientEmail, DateTime date)
+    public Reservation CreateReservation(int resourceId, string clientName, string clientEmail, DateTime date)
     {
         var resource = GetResourceById(resourceId);
         if (resource == null)
