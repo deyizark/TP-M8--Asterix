@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "XbKakVAgyCQ=",
+  "dgSpecHash": "Gf8BvDj0Za4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
-=======
-  "dgSpecHash": "ee4R8eS6xK0=",
-  "success": true,
-  "projectFilePath": "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
->>>>>>> 4d34fc663f5751fb245b1edbd0cbda223a622c79
+  "projectFilePath": "C:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

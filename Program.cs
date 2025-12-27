@@ -7,7 +7,7 @@ namespace ReservationConsoleApp
         private static ReservationService _service = new ReservationService();
         static void Main(string[] args)
         {
-                        bool quitter = false;
+            bool quitter = false;
             while (!quitter)
             {
                 Console.Clear();

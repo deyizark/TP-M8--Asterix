@@ -1,43 +1,25 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj": {}
+    "C:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj": {
+    "C:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+        "projectUniqueName": "C:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
         "projectName": "MiniProjetCSHARP--Asterix",
-        "projectPath": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
-        "packagesPath": "C:\\Users\\Wanguy Calvert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wanguy Calvert\\Desktop\\projetpoo\\TP-M8--Asterix\\obj\\",
-=======
-    "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj": {}
-  },
-  "projects": {
-    "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
-        "projectName": "MiniProjetCSHARP--Asterix",
-        "projectPath": "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
+        "projectPath": "C:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\MiniProjetCSHARP--Asterix.csproj",
         "packagesPath": "C:\\Users\\Augustin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\obj\\",
->>>>>>> 4d34fc663f5751fb245b1edbd0cbda223a622c79
+        "outputPath": "C:\\Users\\Augustin\\Documents\\FDS_UEH_FRST\\C-Sharp\\FinalProject\\TP-M8--Asterix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\Wanguy Calvert\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
           "C:\\Users\\Augustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> 4d34fc663f5751fb245b1edbd0cbda223a622c79
         ],
         "originalTargetFrameworks": [
           "net10.0"

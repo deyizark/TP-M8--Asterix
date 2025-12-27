@@ -8,15 +8,25 @@ public class ReservationService
     private int _nextResourceId = 1;
     private int _nextReservationId = 1;
 
-    private void SeedData()
+    
+    public ReservationService()
     {
-        var managerSalle = new ResourceManager("Marie Laurent", "marie.laurent@entreprise.com");
-        var managerEq = new ResourceManager("Paul Martin", "paul.martin@entreprise.com");
+        var managerSalle = new ResourceManager("Monmsen MERESU", "momnsen.mereus@student.ueh.edu.ht");
+        var managerEq = new ResourceManager("Whitchy AUGUSTIN", "witchy.augustin@student.ueh.edu.ht");
+        var managerCh = new ResourceManager("Wanguy CALVERT", "wanguy.calvert@student.ueh.edu.ht");
 
         _resources.Add(new Resource(_nextResourceId++, ResourceType.Salle, "Salle de réunion A", managerSalle));
         _resources.Add(new Resource(_nextResourceId++, ResourceType.Salle, "Salle de réunion B", managerSalle));
-        _resources.Add(new Resource(_nextResourceId++, ResourceType.Chambre, "Chambre 101", managerSalle));
+        _resources.Add(new Resource(_nextResourceId++, ResourceType.Salle, "Salle de réunion C", managerSalle));
+        _resources.Add(new Resource(_nextResourceId++, ResourceType.Salle, "Salle de réunion D", managerSalle));
+        _resources.Add(new Resource(_nextResourceId++, ResourceType.Chambre, "Chambre 101", managerCh));
+        _resources.Add(new Resource(_nextResourceId++, ResourceType.Chambre, "Chambre 102", managerCh));
+        _resources.Add(new Resource(_nextResourceId++, ResourceType.Chambre, "Chambre 103", managerCh));
+        _resources.Add(new Resource(_nextResourceId++, ResourceType.Chambre, "Chambre 104", managerCh));
         _resources.Add(new Resource(_nextResourceId++, ResourceType.Equipement, "Projecteur 1", managerEq));
+        _resources.Add(new Resource(_nextResourceId++, ResourceType.Equipement, "Projecteur 2", managerEq));
+        _resources.Add(new Resource(_nextResourceId++, ResourceType.Equipement, "Kit Réseau 1", managerEq));
+        _resources.Add(new Resource(_nextResourceId++, ResourceType.Equipement, "Kit Réseau 2", managerEq));
 
         var client = new Client("Jean Dupont", "jean.dupont@entreprise.com");
         _clients.Add(client);
