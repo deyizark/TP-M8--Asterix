@@ -34,8 +34,8 @@ public class ReservationService
         var reservation = new Reservation(_nextReservationId++, _resources[0], client, DateTime.Today);
         _reservations.Add(reservation);
     }
-    public IReadOnlyList<Resource> GetResources() => _resources;
-    public IReadOnlyList<Reservation> GetReservations() => _reservations;
+    public List<Resource> GetResources() => _resources;
+    public List<Reservation> GetReservations() => _reservations;
 
     public Resource GetResourceById(int id)
     {
