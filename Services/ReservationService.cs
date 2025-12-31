@@ -8,7 +8,9 @@ public class ReservationService
     private int _nextResourceId = 1;
     private int _nextReservationId = 1;
 
-    
+    /// <summary>
+    /// Classe ReservationService - Pour modeliser les réservations de ressources
+    /// </summary>
     public ReservationService()
     {
         var managerSalle = new ResourceManager("Monmsen MERESU", "momnsen.mereus@student.ueh.edu.ht");
