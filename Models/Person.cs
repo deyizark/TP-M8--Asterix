@@ -1,6 +1,9 @@
 namespace ReservationConsoleApp.Models
 {
-    public class Person
+    /// <summary>
+    /// Classe abstraite Person — modèle pour tous les différentes personnes
+    /// </summary>
+    public abstract class Person
     {
         public string FullName { get; set; }
         public string Email { get; set; }

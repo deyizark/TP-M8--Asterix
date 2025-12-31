@@ -1,5 +1,8 @@
 namespace ReservationConsoleApp.Models
 {
+    /// <summary>
+    /// Classe Resource - Pour modeliser les ressources de l'entreprise
+    /// </summary>
     public class Resource
     {
         public int Id { get; set; }

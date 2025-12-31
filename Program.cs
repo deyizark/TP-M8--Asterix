@@ -11,14 +11,14 @@ namespace ReservationConsoleApp
             while (!quitter)
             {
                 Console.Clear();
-                Console.WriteLine("=========================================");
+                Console.WriteLine("============================================");
                 Console.WriteLine("   SYSTÈME DE GESTION DE RÉSERVATIONS   ");
-                Console.WriteLine("=========================================");
+                Console.WriteLine("============================================");
                 Console.WriteLine("1. Consulter les ressources");
                 Console.WriteLine("2. Gérer les réservations");
                 Console.WriteLine("3. Afficher un récapitulatif de réservation");
                 Console.WriteLine("0. Quitter");
-                Console.WriteLine("=========================================");
+                Console.WriteLine("============================================");
                 Console.Write("Votre choix : ");
                 var choix = Console.ReadLine();
 
@@ -126,7 +126,7 @@ namespace ReservationConsoleApp
             }
 
             Console.Write("Nom du client : ");
-            string? nomClient = Console.ReadLine();
+            string nomClient = Console.ReadLine();
             Console.Write("Email du client : ");
             string emailClient = Console.ReadLine();
 

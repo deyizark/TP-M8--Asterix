@@ -20,6 +20,9 @@ namespace ReservationConsoleApp.Models
             Status = ReservationStatus.Confirmee;
         }
 
+        /// <summary>
+        /// Affichage personnalisé pour un récapitulatif des réservations
+        /// </summary>
         public string GetSummary()
         {
             var sb = new StringBuilder();

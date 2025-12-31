@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniProjetCSHARP--Asterix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5adf9cb3b9302b053dc73ff05ee1b6fa23d53ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ee88de617aa836a3044ac0558a5ca9ce9aaebb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniProjetCSHARP--Asterix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniProjetCSHARP--Asterix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
