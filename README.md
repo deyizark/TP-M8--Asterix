@@ -95,5 +95,5 @@ Point d’entrée de l’application :
 ### Lancer l’application
 ```bash
 dotnet run
-
+```
 NB: README.md a été généré par chatGPT
